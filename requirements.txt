@@ -1,1 +1,3 @@
 scikit-learn[alldeps]
+tweepy
+textblob
