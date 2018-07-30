@@ -2,3 +2,4 @@ scikit-learn[alldeps]
 tweepy
 textblob
 matplotlib
+pandas
